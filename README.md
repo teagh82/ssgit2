@@ -1,3 +1,4 @@
 # ssgit2
 
-sdadsf
+from master and testing
+from testing
